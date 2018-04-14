@@ -1,0 +1,4 @@
+This is my first attempt at making an application in python coming from ruby and not having programmed in 2 years.
+MASTERMIND
+
+a game where you guess the correct color sequence via the command line
